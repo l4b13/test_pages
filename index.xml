@@ -6,7 +6,14 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 14:31:42 +0900</lastBuildDate>
     <atom:link href="https://l4b13.github.io/test_pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://l4b13.github.io/test_pages/posts/my-first-post/</link>
+      <pubDate>Sat, 20 Apr 2024 14:31:42 +0900</pubDate>
+      <guid>https://l4b13.github.io/test_pages/posts/my-first-post/</guid>
+      <description>My first post</description>
+    </item>
   </channel>
 </rss>
